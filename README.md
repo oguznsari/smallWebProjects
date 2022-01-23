@@ -15,6 +15,11 @@ Small Web Projects that I liked
 * Source: LinkedIn Learning
 * Course: JavaScript Essential Training (2017)
 * Developer: Morten Rand-Henriksen
+
+3. **js-array-methods**
+* Source: LinkedIn Learning
+* Course: JavaScript: Arrays
+* Developer: Jamie Pittman
   
     To do:
     + calculate -> words per minute
